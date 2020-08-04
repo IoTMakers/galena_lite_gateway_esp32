@@ -1,1 +1,1 @@
-# galena_lite_gateway_esp32
+# Galena Lite Gateway
